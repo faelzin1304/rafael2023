@@ -2,3 +2,9 @@ body{
     text-align: center;
     background-color: rgb(204, 148, 231);
 }
+
+.bordal{
+    border-color: rgb(133, 9, 250);
+    border-width: 10px;
+    border-style: groove;
+}
